@@ -4,7 +4,7 @@ import QuestionAnswer from "./QuestionAnswer";
 const FaqAccordion = () => {
   return (
     <div className="flex min-h-screen flex-col items-center bg-lightPink ">
-      <div className="bg-white -translate-y-24 max-w-[375px] px-7 py-8 rounded-3xl md:min-w-[600px] md:px-11 md:py-12 md:-translate-y-36">
+      <div className="bg-white -translate-y-24 max-w-[375px] px-7 py-8 rounded-3xl md:min-w-[600px] md:px-11 md:pt-12  md:-translate-y-28">
         {/* Title */}
         <div className="flex items-center gap-7 pb-7">
           <Image
